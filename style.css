@@ -1,0 +1,47 @@
+main{
+    background: black;
+    height: 1000px;
+    display: flex;
+}
+.container{
+    margin: 6% auto;
+    background: white;
+    width: 500px;
+    height: 700px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    padding: 10px;
+}
+.topleft{
+    display: flex;
+}
+
+.topleft i{
+    font-size: 30px;
+    margin-right: 15px;
+}
+.botones{
+    display:flex;
+    justify-content: space-between;
+    padding: 5px;
+    font-size: 30px;
+    
+}
+ h4{
+    margin: 0;
+ }
+ .topleft p{
+    margin: 0;
+ }
+ .botleft i{
+    margin-right: 10px;
+ }
+ .footer{
+    padding: 10px;
+ }
+ .options{
+    margin-top: 5px;
+ }
